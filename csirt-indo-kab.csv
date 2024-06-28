@@ -1,11 +1,13 @@
 No., Nama Kementerian/Lembaga, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresiasi, Keterangan
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
-X, NULL, NULL, NULL, NULL, NULL, NULL, ?, ?, -
+1, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+2, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+3, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+4, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+5, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+6, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+7, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+8, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+9, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+10, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+20, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+30, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
