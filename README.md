@@ -12,7 +12,7 @@ Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentan
 8. [Sekolah](../master/csirt-indo-sch.csv)
 
 ## Apa Itu Program VVIP?
-Program Voluntary Vulnerability Identification and Protection Program (VVIP) merupakan program yang melibatkan masyarakat secara sukarela untuk berkolaborasi dengan BSSN dalam melakukan identifikasi kerentanan serta proteksi pada sistem elektronik milik Pemerintah, untuk informasi lebih lengkap dapat mengunjungi halaman [VVIP Program BSSN](https://pilot.vvip-program.id/) dan [mendaftarkan diri sebagai peserta](https://pilot.vvip-program.id/register).
+Program Voluntary Vulnerability Identification and Protection Program (VVIP) merupakan program yang melibatkan masyarakat secara sukarela untuk berkolaborasi dengan BSSN dalam melakukan identifikasi kerentanan serta proteksi pada sistem elektronik milik Pemerintah, untuk informasi lebih lengkap dapat mengunjungi halaman [VVIP Program BSSN](https://pilot.vvip-program.id/). Anda juga dapat [mendaftarkan diri sebagai peserta](https://pilot.vvip-program.id/register) ataupun mendaftar sebagai [Penyelenggara Sistem Elektronik (PSE) Lingkup Publik](https://pilot.vvip-program.id/register-pse).
 
 Dalam berpartisipasi pada Voluntary Vulnerability Identification and Protection Program (VVIP-Program) Vulnerability Disclosure Program, diharapkan untuk mengikuti beberapa ketentuan berikut:
 
