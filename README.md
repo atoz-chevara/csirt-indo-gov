@@ -2,7 +2,7 @@
 
 Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentanan pada website atau aplikasi web milik Pemerintah Indonesia.
 
-1. [Kementerian](../master/csirt-indo-kemenbal.csv)
+1. [Kementerian](../master/csirt-indo-kemenbal.csv) (34)
 2. [Badan](../master/csirt-indo-badan.csv)
 3. [Lembaga](../master/csirt-indo-lembaga.csv)
 4. [Provinsi](../master/csirt-indo-prov.csv)
