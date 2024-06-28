@@ -2,6 +2,15 @@
 
 Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentanan pada website atau aplikasi web milik Pemerintah Indonesia.
 
+1. Kementerian
+2. Badan
+3. Lembaga
+4. Provinsi
+5. Kabupaten
+6. Kota
+7. Universitas
+8. Sekolah
+
 Dalam berpartisipasi pada Vulnerability Disclosure Program (VDP), diharapkan untuk mengikuti beberapa ketentuan berikut:
 
 1. Mematuhi seluruh syarat & ketentuan yang berlaku.
