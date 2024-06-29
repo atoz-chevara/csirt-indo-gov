@@ -1,6 +1,6 @@
-No., Nama Lembaga Layanan Pendidikan Tinggi, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresiasi, Keterangan
-1, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-2, LLDIKTI Wilayah I Sumatera Utara, https://lldikti1.kemdikbud.go.id/, info.lldikti1@kemdikbud.go.id, -, PGP-Key, (061) 8214878, ?, ?, -
-3, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-4, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-5, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+No., Nama Lembaga Layanan Pendidikan Tinggi, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresiasi, Wilayah Kerja, Keterangan
+1, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
+2, LLDIKTI Wilayah I, https://lldikti1.kemdikbud.go.id/, info.lldikti1@kemdikbud.go.id, -, PGP-Key, (061) 8214878, ?, ?, Sumatera Utara, -
+3, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
+4, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
+5, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
