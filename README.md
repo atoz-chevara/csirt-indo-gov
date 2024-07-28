@@ -11,6 +11,20 @@ Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentan
 7. [Universitas](../master/csirt-indo-univ.csv)
 8. [Sekolah](../master/csirt-indo-sch.csv)
 
+----
+
+## Bagaimana Berkontribusi pada Project ini.
+
+Berikut langkah-langkahnya secara singkat:
+
+1. Fork it!
+2. Buatlah *branch* baru: `git checkout -b my-csirt-indo-kemen`
+3. *Commit* perubahannya: `git commit -am 'Menambahkan bla...bla...di Kementerian/Lembaga/dll'`
+4. *Push* ke branch di *remote*: `git push origin my-csirt-indo-kemen`
+5. Buat *pull request*
+
+----
+
 ## Apa Itu Program VVIP?
 Program Voluntary Vulnerability Identification and Protection Program (VVIP) merupakan program yang melibatkan masyarakat secara sukarela untuk berkolaborasi dengan BSSN dalam melakukan identifikasi kerentanan serta proteksi pada sistem elektronik milik Pemerintah, untuk informasi lebih lengkap dapat mengunjungi halaman [VVIP Program BSSN](https://pilot.vvip-program.id/). Anda juga dapat [mendaftarkan diri sebagai peserta](https://pilot.vvip-program.id/register) ataupun mendaftar sebagai [Penyelenggara Sistem Elektronik (PSE) Lingkup Publik](https://pilot.vvip-program.id/register-pse).
 
