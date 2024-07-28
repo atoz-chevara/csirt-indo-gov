@@ -13,7 +13,7 @@ Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentan
 
 ----
 
-## Bagaimana Berkontribusi pada Project ini.
+## Bagaimana Berkontribusi pada Proyek ini.
 
 Berikut langkah-langkahnya secara singkat:
 
