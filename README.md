@@ -23,6 +23,8 @@ Berikut langkah-langkahnya secara singkat:
 4. *Push* ke branch di *remote*: `git push origin my-csirt-indo-kemen`
 5. Buat *pull request*
 
+**Lihat:** [Github Workflow: Cara Berkontribusi di Proyek Open Source](https://www.petanikode.com/github-workflow/)
+
 ----
 
 ## Apa Itu Program VVIP?
