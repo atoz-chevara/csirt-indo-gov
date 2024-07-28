@@ -18,10 +18,11 @@ Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentan
 Berikut langkah-langkahnya secara singkat:
 
 1. Fork it!
-2. Buatlah *branch* baru: `git checkout -b my-csirt-indo-kemen`
-3. *Commit* perubahannya: `git commit -am 'Menambahkan bla...bla...di Kementerian/Lembaga/dll'`
-4. *Push* ke branch di *remote*: `git push origin my-csirt-indo-kemen`
-5. Buat *pull request*
+2. Cloning proyek yang sudah anda fork ke akun anda.
+3. Buatlah *branch* baru: `git checkout -b my-csirt-indo-kemen`
+4. *Commit* perubahannya: `git commit -am 'Menambahkan bla...bla... di Kementerian/Lembaga/dll'`
+5. *Push* ke branch di *remote*: `git push origin my-csirt-indo-kemen`
+6. Buat *pull request*
 
 **Lihat:** [Github Workflow: Cara Berkontribusi di Proyek Open Source](https://www.petanikode.com/github-workflow/)
 
