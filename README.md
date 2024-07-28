@@ -1,4 +1,4 @@
-# Gov-CSIRT Indonesia (DRAFT)
+# Gov-CSIRT Indonesia
 
 Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentanan pada website atau aplikasi web milik Pemerintah Indonesia.
 
