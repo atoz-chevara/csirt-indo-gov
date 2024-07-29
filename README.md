@@ -13,6 +13,10 @@ Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentan
 9. [Universitas](../master/csirt-indo-univ.csv)
 10. [Sekolah](../master/csirt-indo-sch.csv)
 
+**Special Thanks:**
+
+Rekan-rekan di Komunitas Ethical Hacker  [Meta4sec](https://meta4sec.com/).
+
 ----
 
 ## Bagaimana Berkontribusi pada Proyek ini.
