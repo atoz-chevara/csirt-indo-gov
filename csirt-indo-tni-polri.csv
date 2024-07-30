@@ -2,6 +2,4 @@ No., TNI/POLRI, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresi
 1, CSIRT TNI, https://milcsirt-tni.mil.id/, satsiber@mabestni.mil.id, -, PGP-Key, (021) 84595695, ?, ?, -
 2, CSIRT TNI Angkatan Laut, https://naval-csirt.tnial.mil.id/, hotline_coc@tnial.mil.id, -, PGP-Key, (021) 27884104, https://aduan.naval-csirt.tnial.mil.id:8443/servicedesk/customer/portal/5/user/login?destination=portal%2F5, ?, -
 3, CSIRT TNI Angkatan Udara, https://idaf-csirt.tni-au.mil.id/, idaf-csirt@tni-au.mil.id, (+62) 88214161034, https://idaf-csirt.tni-au.mil.id/storage/public-key/idaf-csirt_0x402D788D_public.asc, (021) 8709779, ?, ?, -
-4, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-5, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-6, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+4, CSIRT POLRI, https://csirt.polri.go.id/, csirt@polri.go.id, -, https://csirt.polri.go.id/storage/public-key/KunciPublik_0x6FE8906A_public.asc, (021) 5201719, ?, ?, -
