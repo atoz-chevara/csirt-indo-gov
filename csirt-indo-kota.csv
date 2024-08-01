@@ -1,7 +1,7 @@
-No., Nama Kota, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresiasi, Keterangan
-1, CSIRT Kota Padang, https://csirt.padang.go.id/, csirt@padang.go.id, -, https://csirt.padang.go.id/storage/public-key/KunciPublik-Padang-CSIRT_0xE37DFE5A_public.asc, (0751) 4640800, ?, ?, -
+No., Nama Kota, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresiasi, Keterangan, RFC 2350
+1, CSIRT Kota Padang, https://csirt.padang.go.id/, csirt@padang.go.id, -, https://csirt.padang.go.id/storage/public-key/KunciPublik-Padang-CSIRT_0xE37DFE5A_public.asc, (0751) 4640800, ?, ?, -, -
 2, CSIRT Kota Banda Aceh, https://csirt.bandaacehkota.go.id/, csirt@bandaacehkota.go.id, -, PGP-Key, Telepon, ?, ?, -
-3, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-4, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-5, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
-6, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -
+3, CSIRT Kota Makassar, https://csirt.makassarkota.go.id/, csirt@makassarkota.go.id, -, https://csirt.makassarkota.go.id/storage/public-key/csirt-makassarkota-pub.asc, (0411) 4671729, https://helpdesk.makassarkota.go.id/index.php?a=add, ?, -, https://csirt.makassarkota.go.id/file
+4, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
+5, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
+6, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, -, -
