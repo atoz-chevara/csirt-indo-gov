@@ -4,13 +4,13 @@ Daftar ini berisikan alamat untuk melaporkan Insiden Keamanan Siber dan Kerentan
 
 1. [Kementerian](../master/csirt-indo-kemen.csv) (34)
 2. [Badan](../master/csirt-indo-badan.csv)
-3. [Lembaga](../master/csirt-indo-lembaga.csv) (1)
+3. [Lembaga](../master/csirt-indo-lembaga.csv) (5)
 4. [TNI/POLRI](../master/csirt-indo-tni-polri.csv) (4)
 5. [BUMN](../master/csirt-indo-bumn.csv)
-6. [Provinsi](../master/csirt-indo-prov.csv) (6)
+6. [Provinsi](../master/csirt-indo-prov.csv) (16)
 7. [Kabupaten](../master/csirt-indo-kab.csv) (16)
 8. [Kota](../master/csirt-indo-kota.csv) (2)
-9. [Universitas](../master/csirt-indo-univ.csv) (5)
+9. [Universitas](../master/csirt-indo-univ.csv) (15)
 10. [Sekolah](../master/csirt-indo-sch.csv)
 
 **Special Thanks:**
