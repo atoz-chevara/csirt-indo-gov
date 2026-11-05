@@ -1,20 +1,20 @@
 No., Nama Provinsi, Website, Email, Helpdesk, PGP Key, Telepon, Form Laporan, Apresiasi, RFC2350, Keterangan
 1, CSIRT Provinsi Aceh, https://csirt.acehprov.go.id/, diskominfo@acehprov.go.id, -, https://csirt.acehprov.go.id/storage/public-key/Aceh_CSIRT_public.asc, (0651) 22221, ?, ?, ?, -
-2, CSIRT Provinsi DKI Jakarta, https://csirt.jakarta.go.id/, csirt@jakarta.go.id, -, PGP-Key, 081388870152, https://csirt.jakarta.go.id/cyber-report, ?, ?,-
-3, CSIRT Provinsi Riau, https://csirt.riau.go.id/, Email, -, PGP-Key, Telepon, https://csirt.riau.go.id/form-aduan/, ?, ?,-
-4, CSIRT Provinsi Jawa Tengah, https://csirt.jatengprov.go.id/, Email, -, PGP-Key, Telepon, https://csirt.jatengprov.go.id/bug-report-di-website-pemerintah-provinsi-jawa-tengah/, ?, ?,-
+2, CSIRT Provinsi DKI Jakarta, https://csirt.jakarta.go.id/, csirt@jakarta.go.id, -, PGP-Key,81388870152, https://csirt.jakarta.go.id/cyber-report, ?, ?,-
+3, CSIRT Provinsi Riau, https://csirt.riau.go.id/, csirt@riau.go.id, -, PGP-Key, Telepon, https://csirt.riau.go.id/form-aduan/, ?, ?,-
+4, CSIRT Provinsi Jawa Tengah, https://csirt.jatengprov.go.id/,csirt@jatengprov.go.id, -, PGP-Key, Telepon+628112607752, https://csirt.jatengprov.go.id/bug-report-di-website-pemerintah-provinsi-jawa-tengah/, ?, ?,-
 5, CSIRT Provinsi Jawa Timur, https://csirt.jatimprov.go.id/, csirt@jatimprov.go.id, -, https://csirt.jatimprov.go.id/storage/public-key/csirt_jatimprov.go.id_0x62A312A8_public.asc, (031) 8294608, ?, ?, ?,-
-6, CSIRT Provinsi Bali, https://csirt.baliprov.go.id/, sirt@baliprov.go.id, -, PGP-Key, (0361) 225859, https://aduancsirt.baliprov.go.id/, ?, ?,-
+6, CSIRT Provinsi Bali, https://csirt.baliprov.go.id/, csirt@baliprov.go.id, -, PGP-Key, (0361) 225859, https://aduancsirt.baliprov.go.id/, ?,https://csirt.baliprov.go.id/RFC2350/rfc2350-id-v3.pdf,-
 7, CSIRT Provinsi Sumatera Utara, https://csirt.sumutprov.go.id/, csirt@sumutprov.go.id, -, https://csirt.sumutprov.go.id/storage/public-key/sumutprov_csirt.asc, (061) 4527254 - 4527038 - 45165038, https://osticket.sumutprov.go.id/account.php?do=create, ?, ?,-
 8, CSIRT Provinsi Sumatera Barat, https://csirt.padang.go.id/, csirt@padang.go.id, -, https://csirt.padang.go.id/storage/public-key/KunciPublik-Padang-CSIRT_0xE37DFE5A_public.asc, (0751) 4640800, https://csirt.padang.go.id/tiket/account.php?do=create, ?, https://csirt.padang.go.id/rfc2350.pdf, Bukti file pelaporan bersifat rahasia (tidak dipublikasi di media publik/sosial)
-9, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-10, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-11, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-12, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-13, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-14, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-15, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
-16, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
+9, CSIRT Provinsi Kalimantan Barat, https://csirt.kalbarprov.go.id/, csirt@kalbarprov.go.id, -, PGP-Key,82154436200, ?, ?, https://csirt.kalbarprov.go.id/security/rfc2350,-
+10, CSIRT Provinsi Kalimantan Selatan, https://csirt.kalselprov.go.id/, sandikami@kalselprov.go.id, -,https://csirt.kalselprov.go.id/storage/public-key/sandikami.asc,(0511) 6749844, ?, ?, https://csirt.kalselprov.go.id/file,-
+11, CSIRT Provinsi Jawa Barat, https://csirt.jabarprov.go.id/, csirt@jabarprov.go.id, -,https://csirt.jabarprov.go.id/assets/Publik-Key-Bantuan70-pub.asc, (022) 7202898, ?, ?, https://csirt.jabarprov.go.id/assets/rfc2350/RFC2350-JabarProv-CSIRT-v_1_3.pdf,-
+12, CSIRT Provinsi Lampung, https://csirt.lampungprov.go.id/, csirt@lampungprov.go.id, -,https://csirt.lampungprov.go.id/detail-dokumen/pgp-key,(0721) 470547, ?, ?, https://csirt.lampungprov.go.id/detail-dokumen/rfc2350,-
+13, CSIRT Provinsi Nusa Tenggara Timur, https://csirt.nttprov.go.id/, csirt@nttprov.go.id, -, https://csirt.nttprov.go.id/storage/public-key/pgcsirt@jogjaprov.go_.id-0xC824AF44-rev.asc, (0380) 821294, ?, ?, https://csirt.nttprov.go.id/file,-
+14, CSIRT Provinsi Sulawesi Tengah, https://csirt.sultengprov.go.id/, csirt@sultengprov.go.id, -, PGP-Key, Telepon, ?, ?, https://csirt.sultengprov.go.id/rfc2350?lang=IDN,-
+15, CSIRT Provinsi Papua Barat, https://csirt.papuabaratprov.go.id/, aduansiber@papuabaratprov.go.id, -,https://csirt.papuabaratprov.go.id/assets/Publik-Key-Bantuan70-pub.asc,81218106682, ?, ?, https://csirt.papuabaratprov.go.id/portal/rfc2350,-
+16, CSIRT Provinsi Sulawesi Barat, https://csirt.sulbarprov.go.id/, csirt@sulbarprov.go.id, -, PGP-Key, +62823-9666-3232, ?, ?, https://csirt.sulbarprov.go.id/RFC2350,-
 17, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
 18, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
 19, CSIRT NULL, Website, Email, -, PGP-Key, Telepon, ?, ?, ?,-
